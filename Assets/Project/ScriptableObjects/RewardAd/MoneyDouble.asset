@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ce87c07e57a019488b283ec0aab0a81, type: 3}
+  m_Name: MoneyDouble
+  m_EditorClassIdentifier: 
+  adType: 1
+  smallIcon: {fileID: 21300000, guid: 83aa26d7b5233b54696e9ec16394c663, type: 3}
+  bigIcon: {fileID: 21300000, guid: ba7ac9a6dc645844c8e811ccb6ea2cfd, type: 3}
+  description: Double the money you earn from customers
+  duration: 45

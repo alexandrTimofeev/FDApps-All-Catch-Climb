@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: FishPrefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: FishPrefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fe5b0b04a176a8d4db486007b5a795a8
+  m_SerializeEntries:
+  - m_GUID: 03b6fb38b56b8d846a77ce20b035ddab
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-3/Fish_3_pf.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2aeb5c3a158bb9843b72617f4bb17afe
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-1/fish_1_pf.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 349556ca144e4994b93a221b86ef4154
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Tortoise/Fish_9_pf.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38453c08482feef46925c63d2e9e6598
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-2/fish_2_pf.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 442218c10b108464c9170c8661ddb294
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-5/fish_5_pf.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45977e3d2717782469ccbd471a526680
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Dolphin/Fish_7_pf.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 561fcee6ad0370e419b4a02d7a126db1
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-6/Fish_6_pf.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d99aa1c03c23414c8e892e91cb5e51c
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-4/Fish_4_pf.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7eae7165760ea8e4392990af4666d35b
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Shark/Fish_8_pf.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 55b5568b3d19bd840a25215f27605532, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d493cb2796f2da3419bed3fc41f195df, type: 2}
+    - {fileID: 11400000, guid: cc311e49b69e80742aa9f6eb08ef1884, type: 2}

@@ -1,0 +1,381 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 1020d99fd26f190479876b3b9773528d
+  m_SerializeEntries:
+  - m_GUID: 0398e772dd820c046ad86bcc6dc8ff65
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-2/Materials/fish_2_v3.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c5a04f787340ac41abc27a9960c2ebb
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-2/Materials/fish_2_v2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e65bfa769317834d846b67aa540319a
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Tortoise/Materials/fish_9_v3_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 119a790f1d413a949affca22405b5add
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-4/Materials/fish_4_v4.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16f08ceb8e0ad6044821f562248311c5
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-3/Materials/fish_3_v4.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17b67b6c5c96058468c7607a439e5664
+    m_Address: Assets/Project/SFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 181947976ee129146a6ea82f7194dbe4
+    m_Address: Assets/Project/Assets/Audio/SFX/CoinSFX/coin.9.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CoinSFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21b9bd8face39f14ba71286d74dce339
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Tortoise/Materials/fish_9_v5_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22ca2813c659fb1459214e67f3bdbdd3
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Tortoise/Materials/fish_9_v1_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23835111cd863734ba0f33dcbcd132fb
+    m_Address: Assets/Project/Assets/Audio/SFX/CoinSFX/coin.12.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CoinSFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24bbd5422a5d91a48ace5dde2a04fcbf
+    m_Address: Assets/Project/Assets/Audio/SFX/CoinSFX/coin.1.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CoinSFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29bde6326b4c34ad8a12da475f79b50a
+    m_Address: SFX/FishPickedUp_sfx
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35646d9daace7e84dba901e816671b38
+    m_Address: SFX/BobberSplash_sfx
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3849db8d03eb47441bc3acbd00bbb7e1
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-6/Materials/fish_6_v5.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b24c36d36683fd4dbf9c6d48c60b092
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-3/Materials/fish_3_v3.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d123e9519590c64fa544c45c8f6c21a
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-1/Materials/fish_1_v5.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40eb0078f8a20e64688a3fd897e527b7
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-3/Materials/fish_3_v1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b40c3c8824a21e46934796fd1ebabb8
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-1/Materials/fish_1_v2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4efd0ea822d22e844885a14ec827b81a
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Shark/Materials/fish_8_Material_v3.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 501aa3bbeb2dfa7418b39dbe3868078a
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Tortoise/Materials/fish_9_v4_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54d777239d737444086b3af2b3fdc18b
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-1/Materials/fish_1_v1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c9ce1580a05346428021ed3095894a2
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Shark/Materials/fish_8_Material_v2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61828fe8f9e7d014cbfaef3e6e628cd5
+    m_Address: Assets/Project/Assets/Audio/SFX/CoinSFX/coin.3.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CoinSFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6430fcaffb2f97a46a90a1ba798d1b5e
+    m_Address: RewardAdSO/MoneyDouble
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 648f294ce4eecee45a81fa6da3c47a2f
+    m_Address: SFX/FishCatchedFail_sfx
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65df06cd968577042a54d4eba3d2b08b
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-1/Materials/fish_1_v4.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 699983b4ec9435c4cadc6a1bb889e027
+    m_Address: SFX/ReelPull_sfx
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d4104ebc5007904fb5f8b5fd6f17db2
+    m_Address: Assets/Project/Assets/Audio/SFX/CoinSFX/coin.11.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CoinSFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f8176222aa35594aadec1b945bd5051
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-2/Materials/fish_2_v1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 710bf8799bd78374bbdfb72d41f2ddbc
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-5/Materials/fish_5_v2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 713545ad8b9f1c046b9f4903a1076c30
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-5/Materials/fish_5_v5.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 787f09ed190a16241b049e1d37dc369f
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-5/Materials/fish_5_v3.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d316a3bb3d460c4aa4b13cf99a96c14
+    m_Address: SFX/WaterSplash_sfx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7faa6d12f5cde784097e2163f3ad83d3
+    m_Address: Assets/Project/Assets/Audio/SFX/CoinSFX/coin.4.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CoinSFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82bbc1abffb8eec4a9a5839a7c700011
+    m_Address: RewardAdSO/FishSize
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83036083a4ebcd34f98131bd3cf6f4d2
+    m_Address: VFX/DefaultPoof_vfx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8873efbeb7cdbdf4586a69f3101dbdbd
+    m_Address: Assets/Project/ScriptableObjects/Fishes/2_Uncommon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89f1c412df115d44a92d1abdd0f11461
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Shark/Materials/fish_8_Material__v4.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91ed5aab69a226640bd65050a8e094ea
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-6/Materials/fish_6_v4.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9298a1a89dbf0464f91f09d42d1da9a6
+    m_Address: SFX/UpgradeUnlocked_sfx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 938bbb5c6a5d1b348bf2cdbff14da87f
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-4/Materials/fish_4_v3.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9456bbac7a6fd5946a64539ba9f5cfd5
+    m_Address: RewardAdSO/DoubleCatch
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a13ad5300cb72df4ab1bab993c06584b
+    m_Address: Assets/Project/Assets/Audio/SFX/CoinSFX/coin.10.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CoinSFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a197e605106d45841b30f0843b49822b
+    m_Address: SFX/FishSold_sfx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1dab3b08c0fb54468170915f7e965dd
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-3/Materials/fish_3_v5.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a459caf1faa875a42ae82ac30feff061
+    m_Address: SFX/FishPlaced_sfx
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9ad00dab4e26814481031655b374dea
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-2/Materials/fish_2_v4.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab05122505915d048920e561ea1a13db
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Shark/Materials/fish_8_Material_v5.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aded33f664afa2f4498119c6c45ad2c5
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-3/Materials/fish_3_v2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af16a5926da9d6248b8518905fdc805b
+    m_Address: Assets/Project/Assets/Audio/SFX/CoinSFX/coin.8.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CoinSFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b058772c3ef3bd942b8f2f5fcc3d2ead
+    m_Address: Assets/Project/Assets/Audio/SFX/CoinSFX/coin.5.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CoinSFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b73b36b6261b9054c89a31fc05c52dbd
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Shark/Materials/fish_8_Material_v1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbb8410a274f96c49b56b9162bde51e0
+    m_Address: SFX/FishCatchedSuccess_sfx
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbfc692b8b520214bb577728f60d14ac
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-1/Materials/fish_1_v3.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bec23659d7fc94e43bf1802316a889c1
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-4/Materials/fish_4_v2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4f829cb7dd4b864caf8832ec5b1ee55
+    m_Address: VFX/MagicPoof_vfx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5168540a84211041a1bf022fa0e73ec
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-4/Materials/fish_4_v5.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c61dfaee29b34944baa23cb61c73eee0
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-5/Materials/fish_5_v4.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca1a506b6314a6a448deed8acad34989
+    m_Address: Assets/Project/SFX/CoinSFX/coin.2.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CoinSFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca5506ebafbabad47b799ad069e3d514
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-2/Materials/fish_2_v5.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d053c22072a3aef4cbba774e6cf75899
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-5/Materials/fish_5_v1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dde2ac90f9eeb1741a3dc5db7439214f
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-6/Materials/fish_6_v2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e13ab9e9828c68a459ca59dde980e955
+    m_Address: Assets/Project/Assets/Audio/SFX/CoinSFX/coin.7.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CoinSFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e85fb7de361ba174d94baf8b80348f1f
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Tortoise/Materials/fish_9_v2_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec7330a0ae472e040871cffc96c5e79c
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-4/Materials/fish_4_v1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f27ef528b073a8843b614e5ee3019e7d
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-6/Materials/fish_6_v1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa9aead671a3fca478bbdbdd02521c4a
+    m_Address: Assets/Project/Prefabs/SeaCreatures/Fish-6/Materials/fish_6_v3.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb4401e88aafc6a43b33fc9412d4ce43
+    m_Address: Assets/Project/Assets/Audio/SFX/CoinSFX/coin.6.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CoinSFX
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 55b5568b3d19bd840a25215f27605532, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ea4edfd41ab99734192eec6281b2fe4f, type: 2}
+    - {fileID: 11400000, guid: 4c959023096803d41803215e18c44e5f, type: 2}

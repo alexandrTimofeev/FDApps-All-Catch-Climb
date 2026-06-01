@@ -1,0 +1,1 @@
+public class CatchPressed_event {} // Called when Player presses CATCH in fishing UI

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4cf1d3faefd24e41a31283e1192d0dd, type: 3}
+  m_Name: Starfang
+  m_EditorClassIdentifier: 
+  nameString: Starfang
+  speed: 2
+  strength: 6
+  rarity: 4
+  sellValue: 63
+  minWeight: 0.9
+  maxWeight: 1.5
+  width: 0.3
+  fishModel: {fileID: 3911451128253662628, guid: 349556ca144e4994b93a221b86ef4154,
+    type: 3}
+  fishMaterial: {fileID: 2100000, guid: 22ca2813c659fb1459214e67f3bdbdd3, type: 2}

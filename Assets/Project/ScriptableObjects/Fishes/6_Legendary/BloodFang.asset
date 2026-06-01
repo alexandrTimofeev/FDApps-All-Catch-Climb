@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4cf1d3faefd24e41a31283e1192d0dd, type: 3}
+  m_Name: BloodFang
+  m_EditorClassIdentifier: 
+  nameString: Blood Fang
+  speed: 5
+  strength: 5
+  rarity: 5
+  sellValue: 94
+  averageSize: 2
+  deltaSize: 1.8
+  width: 0.3
+  fishModel: {fileID: 6817605226350521283, guid: 7eae7165760ea8e4392990af4666d35b,
+    type: 3}
+  fishMaterial: {fileID: 2100000, guid: ab05122505915d048920e561ea1a13db, type: 2}

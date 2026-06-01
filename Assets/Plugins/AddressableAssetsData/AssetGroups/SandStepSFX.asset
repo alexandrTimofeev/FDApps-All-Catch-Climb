@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SandStepSFX
+  m_EditorClassIdentifier: 
+  m_GroupName: SandStepSFX
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 995beb9fea1c13046b40351fe880483e
+  m_SerializeEntries:
+  - m_GUID: 159e714c71e6d4443a10de8687e5509e
+    m_Address: SandStepSFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 341d3c31556b07b4b8bc5a674bcc15df
+    m_Address: SandStepSFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bd7f2c9675aa7a49a34759950548dc9
+    m_Address: SandStepSFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5eb35204391fb8944ad9a7013ec8f07a
+    m_Address: SandStepSFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 770d4f99d15e83f4ba57a350b3e31f16
+    m_Address: SandStepSFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9600b931ed0f37d49b9a587f6e6413e4
+    m_Address: SandStepSFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6c80ed59364a08418c096d8c06e1a34
+    m_Address: SandStepSFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1999d253f48d1d4f9c334a711109474
+    m_Address: SandStepSFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f42519d7db90222449f4b17944346453
+    m_Address: SandStepSFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 55b5568b3d19bd840a25215f27605532, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f2f73fd85b6747b4a977476e7e33368d, type: 2}
+    - {fileID: 11400000, guid: 7775beded56390a4884de6d10ed24d58, type: 2}

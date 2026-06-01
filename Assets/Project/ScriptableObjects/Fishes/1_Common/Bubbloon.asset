@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4cf1d3faefd24e41a31283e1192d0dd, type: 3}
+  m_Name: Bubbloon
+  m_EditorClassIdentifier: 
+  nameString: Bubbloon
+  speed: 0
+  strength: 1
+  rarity: 0
+  sellValue: 6
+  minWeight: 1.25
+  maxWeight: 1.6
+  width: 0.2
+  fishModel: {fileID: 8848912004881509116, guid: 2aeb5c3a158bb9843b72617f4bb17afe,
+    type: 3}
+  fishMaterial: {fileID: 2100000, guid: bbfc692b8b520214bb577728f60d14ac, type: 2}

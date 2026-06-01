@@ -1,0 +1,22 @@
+using UnityEngine;
+
+public class IdleState : PlayerState
+{
+    public IdleState(PlayerController playerController, PlayerStateController stateController) : base(playerController, stateController) { }
+
+    public override void OnEnter()
+    {
+        playerController.EnterIdleAnim();
+    }
+
+    public override void OnExit() { }
+
+    public override void OnUpdate()
+    {
+        // Check if player is trying to move
+        if (playerController.GetPlayerMovement().GetInputVector() != Vector2.zero)
+        {
+            stateController.EnterState(stateController.movingState);
+        }
+    }
+}
