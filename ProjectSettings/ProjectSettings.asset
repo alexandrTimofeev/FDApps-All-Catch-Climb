@@ -9,7 +9,7 @@ PlayerSettings:
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
   defaultScreenOrientation: 0
-  targetDevice: 2
+  targetDevice: 0
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: snk
@@ -169,7 +169,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.oleksenko.fishingporttycoon
     Standalone: com.Unity-Technologies.com.unity.template.urp-blank
-    iPhone: com.Unity-Technologies.com.unity.template.urp-blank
+    iPhone: com.snk.catchclimb
   buildNumber:
     Standalone: 0
     VisionOS: 0
